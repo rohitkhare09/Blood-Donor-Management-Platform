@@ -2,7 +2,7 @@
 
 The Blood Donation Management Platform is a web-based application developed using PHP, MySQL, HTML, and JavaScript, designed to revolutionize how blood donations are managed. The platform streamlines the entire donation process while enhancing the experience for both donors and administrators, providing an efficient, accessible, and user-friendly system.
 
-Key Modules:-
+🔹Key Modules:-
 
 1. Admin Module
 -The Admin Module acts as the control hub for the platform. It provides a centralized dashboard to manage and oversee all critical operations:
@@ -27,4 +27,7 @@ Key Modules:-
 By connecting donors with recipients, this module fosters community engagement, social responsibility, and timely access to life-saving resources.
 
 Technologies Used: PHP, MySQL, HTML, CSS, JavaScript
+
+🔹 Screenshot
+
 
