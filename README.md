@@ -29,5 +29,5 @@ By connecting donors with recipients, this module fosters community engagement, 
 Technologies Used: PHP, MySQL, HTML, CSS, JavaScript
 
 🔹 Screenshot
-
+https://github.com/rohitkhare09/Blood-Donor-Management-Platform/blob/78b108d62de66f98fae3384418a64ffe94edc43d/Screenshot.png
 
